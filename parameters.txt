@@ -1,0 +1,44 @@
+Synthetic model(-0.2~0.2)
+########################
+pre
+% BM3D parameters
+par.lambda             = 0.4; 
+par.sigma               = 0.4;
+
+% PWD parameters
+step = 1;
+c = 4;
+
+#######################
+post
+% BM3D parameters
+par.lambda             = 0.4; 
+par.sigma               = 0.4;
+
+% PWD parameters
+step = 1;
+c = 4;
+
+
+Field data
+####################
+pre
+% BM3D parameters
+par.lambda                  = 0.8; 
+par.sigma                    = 0.8;
+
+
+% PWD parameters
+step = 1;
+c = 3;
+
+###################
+post
+% BM3D parameters
+
+par.lambda             = 0.8;
+par.sigma               = 0.8;
+
+% PWD parameters
+step = 1;
+c = 6;
