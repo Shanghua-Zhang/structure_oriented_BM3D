@@ -55,4 +55,5 @@ Function files:
 16. get_SNR: The function is used to calculate SNR.
 
 Note: This file "parameters.txt" is the parameters used in the article.
+![Parameters_SNR_CalculationTime](https://github.com/user-attachments/assets/3722b926-9769-448c-a05a-9e384d73db18)
 
